@@ -13,7 +13,7 @@ MusiCLI is a terminal-based music recommendation AI that suggests songs based on
 ## Installation
 1. Clone the repository:  
 ```bash
-git clone 
+git clone https://github.com/Aaryan-J/MusiCLI.git
 ```
 2. Install dependencies:
 ```bash
