@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 3. Run the program:
 ```bash
-python musiccli.py
+python src/main.py
 ```
 
 ## Usage
